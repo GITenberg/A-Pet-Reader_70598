@@ -1,0 +1,42 @@
+_repo: A-Pet-Reader_70598
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Schwem, Leone
+    gutenberg_agent_id: '55817'
+    url: http://www.gutenberg.org/2009/agents/55817
+  - agent_name: Schwem, Ludwig
+    gutenberg_agent_id: '55815'
+    url: http://www.gutenberg.org/2009/agents/55815
+  - agent_name: Schwem, Regina
+    gutenberg_agent_id: '55816'
+    url: http://www.gutenberg.org/2009/agents/55816
+creator:
+  author:
+    agent_name: Lawson, Edith Wilhelmina
+    gutenberg_agent_id: '55777'
+    url: http://www.gutenberg.org/2009/agents/55777
+description: ''
+gutenberg_issued: '2023-04-19'
+identifiers:
+  gutenberg: '70598'
+language: en
+pgterms:marc904: https://archive.org/details/petreader00laws/page/n3/mode/2up
+pgterms:marc905: 20220130223525lawsonab
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bBeckley-Cardy Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcsh 'Animals -- Juvenile literature'
+- !lcsh 'Pets -- Juvenile literature'
+- !lcc 'PE'
+- GITenberg
+title: A Pet Reader
+url: http://www.gutenberg.org/ebooks/70598
