@@ -11,12 +11,17 @@ contributor:
   - agent_name: Schwem, Regina
     gutenberg_agent_id: '55816'
     url: http://www.gutenberg.org/2009/agents/55816
+covers:
+- cover_type: archival
+  image_path: 70598-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawson, Edith Wilhelmina
     gutenberg_agent_id: '55777'
     url: http://www.gutenberg.org/2009/agents/55777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70598#A-Pet-Reader
 gutenberg_issued: '2023-04-19'
 identifiers:
   gutenberg: '70598'
